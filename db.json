@@ -1,19 +1,21 @@
 {
-  "posts": [
+  "employeeType": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "type": "Mr."
+    },
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "type": "Mrs."
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employees": [
+    {
+      "id": 909,
+      "name": "Abhishek",
+      "age": "25",
+      "dob": "2018-01-18",
+      "title": "Mr."
+    }
+  ]
 }
